@@ -137,6 +137,93 @@ public class Uranai {
   public void Aquarius( int num ){
   }
   public void Pisces( int num ){
+	  String seiza = "うお座";
+	    switch( num ){
 
+	      // case 1 = 一位の時のメッセージ
+	      case 1:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("魅力あふれる笑顔で人気急上昇。自信のあるジャンルでアピール。");
+	          System.out.println("コミュニケーションが弾む");
+	          System.out.println("ラッキーポイント：『熱帯魚の画像』");
+	          System.out.println("");
+	        break;
+	      case 2:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 3:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 4:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 5:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 6:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 7:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 8:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 9:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 10:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 11:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	        break;
+	      case 12:
+	    	  System.out.println( num + "位" + seiza);
+	          System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
+	          System.out.println("コミュニケーションを意識して");
+	          System.out.println("ラッキーポイント：『変顔の写真』");
+	          System.out.println("");
+	    }
   }
 }
