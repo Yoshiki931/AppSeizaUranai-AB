@@ -76,6 +76,95 @@ public class Uranai {
   public void Scorpio( int num ){
   }
   public void Sagittarius( int num ){
+	  String seiza = "射手座";
+	  switch( num ){
+      // case 1 = 一位の時のメッセージ
+      case 1:
+        System.out.println( num + "位" + seiza);
+        System.out.println("故意のビッグチャンス到来でモテモテ！");
+        System.out.println("気になる人には積極的なアピールを！");
+        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+        System.out.println("");
+        break;
+      case 2:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 3:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 4:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 5:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 6:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 7:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 8:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 9:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 10:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 11:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("故意のビッグチャンス到来でモテモテ！");
+          System.out.println("気になる人には積極的なアピールを！");
+          System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+          System.out.println("");
+        break;
+      case 12:
+    	  System.out.println( num + "位" + seiza);
+          System.out.println("やけどの恐れあり");
+          System.out.println("気を付けておきましょう。");
+          System.out.println("ラッキーポイント：『手切れ金』");
+          System.out.println("");
+         break;
+    }
+    return;
   }
   public void Capricorn( int num ){
   }
