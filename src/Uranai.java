@@ -448,6 +448,95 @@ public class Uranai {
   }
   public static void Virgo( int num ){
   }
+  public void Libra( int num ){
+	  String seiza = "いて座";
+	    switch( num ){
+	      case 1:
+	        System.out.println( num + "位" + seiza);
+	        System.out.println("恋愛運が絶頂！");
+	        System.out.println("運命の人に出会えるかも！！");
+	        System.out.println("ラッキーポイント：『アンゴラうさぎの帽子』");
+	        System.out.println("");
+	        break;
+	      case 2:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("運気が最高！");
+		        System.out.println("今日のひきの強さは過去最高レベル！！");
+		        System.out.println("ラッキーポイント：『黒縁の眼鏡』");
+		        System.out.println("");
+	        break;
+	      case 3:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("仕事運が良いです");
+		        System.out.println("悩んでいた問題が解決するかも！？");
+		        System.out.println("ラッキーポイント：『寺やる第一話』");
+		        System.out.println("");
+	        break;
+	      case 4:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("事故運が良いです");
+		        System.out.println("交通量の多いところでは気を付けましょう");
+		        System.out.println("ラッキーポイント：『スロット』");
+		        System.out.println("");
+	        break;
+	      case 5:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 6:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 7:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 8:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 9:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 10:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 11:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	        break;
+	      case 12:
+	    	  System.out.println( num + "位" + seiza);
+		        System.out.println("何もかもうまくいかない一日");
+		        System.out.println("癒されるものを見て切り替えよう！");
+		        System.out.println("ラッキーパーソン：『香風智乃』");
+		        System.out.println("");
+	    }
+	    return;
+
   public static void Libra( int num ){
   }
   public static void Scorpio( int num ){
