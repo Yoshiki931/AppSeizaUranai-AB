@@ -74,14 +74,15 @@ public class Uranai {
   }
 
   /*
-   * 【皆さんにお願いしたいこと】
-   *  星座の順位（１～１２位）に応じて占い結果（文字）を表示する.
+   * �y�F����ɂ��肢���������Ɓz
+   *  ����̏��ʁi�P�`�P�Q�ʁj�ɉ����Đ肢���ʁi�����j��\������.
    *
-   *  内容に関しては、好きにしてください。
-   *  例を下に乗せておきます。
-   *  コピーするなりして頑張ってください。
-   *  内容に関して、迷った時はめざましテレビの占いでも参考にしてください。
+   *  ��e�Ɋւ��ẮA�D���ɂ��Ă��������B
+   *  ���ɏ悹�Ă����܂��B
+   *  �R�s�[����Ȃ肵�Ċ撣��Ă��������B
+   *  ��e�Ɋւ��āA�������͂߂��܂��e���r�̐肢�ł�Q�l�ɂ��Ă��������B
    */
+
 
   public static void Aries( int num ){
     String seiza = "牡羊座";
@@ -92,6 +93,7 @@ public class Uranai {
         System.out.println("恋のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+
         System.out.println("");
         break;
       case 2:
@@ -761,7 +763,60 @@ public class Uranai {
   }
   public static void Capricorn( int num ){
   }
-  public static void Aquarius( int num ){
+  public void Aquarius( int num ){
+  	String seiza = "���r��";
+	System.out.println( num + "��" + seiza);
+    switch( num ){
+      // case 1 = ��ʂ̎��̃��b�Z�[�W
+      case 1:
+        System.out.println("�̈ӂ̃r�b�O�`�����X�����Ń��e���e�I");
+        System.out.println("");
+        break;
+      case 2:
+        System.out.println("��");
+        System.out.println("");
+        break;
+      case 3:
+        System.out.println("��");
+        System.out.println("");
+        break;
+      case 4:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 5:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 6:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 7:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 8:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 9:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 10:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 11:
+	  System.out.println("��");
+        System.out.println("");
+        break;
+      case 12:
+	  System.out.println("��");
+        System.out.println("");
+    }
+    return;
   }
   public void Pisces( int num ){
 	  String seiza = "うお座";
