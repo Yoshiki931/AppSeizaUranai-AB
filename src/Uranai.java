@@ -16,25 +16,25 @@ public class Uranai {
   }
 
   /*
-   * ã€çš†ã•ã‚“ã«ãŠé¡˜ã„ã—ãŸã„ã“ã¨ã€‘
-   *  æ˜Ÿåº§ã®é †ä½ï¼ˆï¼‘ï½ï¼‘ï¼’ä½ï¼‰ã«å¿œã˜ã¦å ã„çµæœï¼ˆæ–‡å­—ï¼‰ã‚’è¡¨ç¤ºã™ã‚‹.
+   * yŠF‚³‚ñ‚É‚¨Šè‚¢‚µ‚½‚¢‚±‚Æz
+   *  ¯À‚Ì‡ˆÊi‚P`‚P‚QˆÊj‚É‰‚¶‚Äè‚¢Œ‹‰Êi•¶šj‚ğ•\¦‚·‚é.
    *
-   *  å†…å®¹ã«é–¢ã—ã¦ã¯ã€å¥½ãã«ã—ã¦ãã ã•ã„ã€‚
-   *  ä¾‹ã‚’ä¸‹ã«ä¹—ã›ã¦ãŠãã¾ã™ã€‚
-   *  ã‚³ãƒ”ãƒ¼ã™ã‚‹ãªã‚Šã—ã¦é ‘å¼µã£ã¦ãã ã•ã„ã€‚
-   *  å†…å®¹ã«é–¢ã—ã¦ã€è¿·ã£ãŸæ™‚ã¯ã‚ã–ã¾ã—ãƒ†ãƒ¬ãƒ“ã®å ã„ã§ã‚‚å‚è€ƒã«ã—ã¦ãã ã•ã„ã€‚
+   *  “à—e‚ÉŠÖ‚µ‚Ä‚ÍAD‚«‚É‚µ‚Ä‚­‚¾‚³‚¢B
+   *  —á‚ğ‰º‚Éæ‚¹‚Ä‚¨‚«‚Ü‚·B
+   *  ƒRƒs[‚·‚é‚È‚è‚µ‚ÄŠæ’£‚Á‚Ä‚­‚¾‚³‚¢B
+   *  “à—e‚ÉŠÖ‚µ‚ÄA–À‚Á‚½‚Í‚ß‚´‚Ü‚µƒeƒŒƒr‚Ìè‚¢‚Å‚àQl‚É‚µ‚Ä‚­‚¾‚³‚¢B
    */
 
   public void Aries( int num ){
-    String seiza = "ç‰¡ç¾Šåº§";
+    String seiza = "‰²—rÀ";
     switch( num ){
 
-      // case 1 = ä¸€ä½ã®æ™‚ã®ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸
+      // case 1 = ˆêˆÊ‚Ì‚ÌƒƒbƒZ[ƒW
       case 1:
-        System.out.println( num + "ä½" + seiza);
-        System.out.println("æ•…æ„ã®ãƒ“ãƒƒã‚°ãƒãƒ£ãƒ³ã‚¹åˆ°æ¥ã§ãƒ¢ãƒ†ãƒ¢ãƒ†ï¼");
-        System.out.println("æ°—ã«ãªã‚‹äººã«ã¯ç©æ¥µçš„ãªã‚¢ãƒ”ãƒ¼ãƒ«ã‚’ï¼");
-        System.out.println("ãƒ©ãƒƒã‚­ãƒ¼ãƒã‚¤ãƒ³ãƒˆï¼šã€ã‚¤ãƒ³ãƒ†ãƒªã‚¢é›‘è²¨ã‚·ãƒ§ãƒƒãƒ—ã€");
+        System.out.println( num + "ˆÊ" + seiza);
+        System.out.println("ŒÌˆÓ‚ÌƒrƒbƒOƒ`ƒƒƒ“ƒX“—ˆ‚Åƒ‚ƒeƒ‚ƒeI");
+        System.out.println("‹C‚É‚È‚él‚É‚ÍÏ‹É“I‚ÈƒAƒs[ƒ‹‚ğI");
+        System.out.println("ƒ‰ƒbƒL[ƒ|ƒCƒ“ƒgFwƒCƒ“ƒeƒŠƒAG‰İƒVƒ‡ƒbƒvx");
         System.out.println("");
         break;
       case 2:
@@ -80,6 +80,59 @@ public class Uranai {
   public void Capricorn( int num ){
   }
   public void Aquarius( int num ){
+  	String seiza = "…•rÀ";
+	System.out.println( num + "ˆÊ" + seiza);
+    switch( num ){
+      // case 1 = ˆêˆÊ‚Ì‚ÌƒƒbƒZ[ƒW
+      case 1:
+        System.out.println("ŒÌˆÓ‚ÌƒrƒbƒOƒ`ƒƒƒ“ƒX“—ˆ‚Åƒ‚ƒeƒ‚ƒeI");
+        System.out.println("");
+        break;
+      case 2:
+        System.out.println("‚ ");
+        System.out.println("");
+        break;
+      case 3:
+        System.out.println("‚¢");
+        System.out.println("");
+        break;
+      case 4:
+	  System.out.println("‚¤");
+        System.out.println("");
+        break;
+      case 5:
+	  System.out.println("‚¦");
+        System.out.println("");
+        break;
+      case 6:
+	  System.out.println("‚¨");
+        System.out.println("");
+        break;
+      case 7:
+	  System.out.println("‚©");
+        System.out.println("");
+        break;
+      case 8:
+	  System.out.println("‚«");
+        System.out.println("");
+        break;
+      case 9:
+	  System.out.println("‚­");
+        System.out.println("");
+        break;
+      case 10:
+	  System.out.println("‚¯");
+        System.out.println("");
+        break;
+      case 11:
+	  System.out.println("‚±");
+        System.out.println("");
+        break;
+      case 12:
+	  System.out.println("‚Æ");
+        System.out.println("");
+    }
+    return;
   }
   public void Pisces( int num ){
   }
