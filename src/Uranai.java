@@ -830,56 +830,56 @@ public class Uranai {
 	    return;
   }
   public void Aquarius( int num ){
-  	String seiza = "���r��";
-	System.out.println( num + "��" + seiza);
+  	String seiza = "水瓶";
+	System.out.println( num + "位" + seiza);
     switch( num ){
-      // case 1 = ��ʂ̎��̃��b�Z�[�W
+
       case 1:
-        System.out.println("�̈ӂ̃r�b�O�`�����X�����Ń��e���e�I");
+        System.out.println("あ");
         System.out.println("");
         break;
       case 2:
-        System.out.println("��");
+        System.out.println(い");
         System.out.println("");
         break;
       case 3:
-        System.out.println("��");
+        System.out.println("う");
         System.out.println("");
         break;
       case 4:
-	  System.out.println("��");
+	  System.out.println("え");
         System.out.println("");
         break;
       case 5:
-	  System.out.println("��");
+	  System.out.println("お");
         System.out.println("");
         break;
       case 6:
-	  System.out.println("��");
+	  System.out.println("か");
         System.out.println("");
         break;
       case 7:
-	  System.out.println("��");
+	  System.out.println("き");
         System.out.println("");
         break;
       case 8:
-	  System.out.println("��");
+	  System.out.println("く");
         System.out.println("");
         break;
       case 9:
-	  System.out.println("��");
+	  System.out.println("け");
         System.out.println("");
         break;
       case 10:
-	  System.out.println("��");
+	  System.out.println("こ");
         System.out.println("");
         break;
       case 11:
-	  System.out.println("��");
+	  System.out.println("さ");
         System.out.println("");
         break;
       case 12:
-	  System.out.println("��");
+	  System.out.println("し");
         System.out.println("");
     }
     return;
