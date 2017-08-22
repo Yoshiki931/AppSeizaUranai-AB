@@ -345,7 +345,58 @@ public class Uranai {
 	    return;
   }
   public static void Cancer( int num ){
-
+	     System.out.println( num + "位：かに座");
+    switch( num ){
+      case 1:
+        System.out.println("仲の良い友人がカニ食べ放題に連れて行ってくれるでしょう");
+        System.out.println("");
+        break;
+      case 2:
+        System.out.println("両親がカニを送ってくれることでしょう");
+        System.out.println("");
+        break;
+      case 3:
+        System.out.println("くじ引きでカニが当たることでしょう");
+        System.out.println("");
+        break;
+      case 4:
+        System.out.println("人づてに面倒な依頼があるかも。金銭関係はキッパリ断って");
+        System.out.println("");
+        break;
+      case 5:
+        System.out.println("顔色が悪くなっていませんか。健康美人を目指しましょう。");
+        System.out.println("");
+        break;
+      case 6:
+        System.out.println("対人面では、思いがけない人と再会する暗示があります");
+        System.out.println("");
+        break;
+      case 7:
+        System.out.println("めげずに長期的戦略を立て、目標達成を目指しましょう");
+        System.out.println("");
+        break;
+      case 8:
+        System.out.println("現実をシビアに認識するのは悪いことではありません");
+        System.out.println("");
+        break;
+      case 9:
+        System.out.println("現実の厳しさに疲れたら、昔の友人に連絡を");
+        System.out.println("");
+        break;
+      case 10:
+        System.out.println("理想と現実の差を思い知らされる日");
+        System.out.println("");
+        break;
+      case 11:
+        System.out.println("甘い夢に酔っていると冷水をかけられてしまいそう");
+        System.out.println("");
+        break;
+      case 12:
+        System.out.println("やり残したことがあれば、今日の内に整理しておきましょう");
+        System.out.println("");
+    }
+    System.out.println("");
+    return;
   }
   public void Leo( int num ){
 	  String seiza = "獅子座";
