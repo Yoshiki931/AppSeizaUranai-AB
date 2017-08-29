@@ -6,7 +6,7 @@ public class Uranai {
 
   int point;
   int total;
-  static Scanner sc; 
+  static Scanner sc;
   static Random rand;
 
   public static void main(String[] args) {
@@ -581,73 +581,73 @@ public class Uranai {
           System.out.println("疲れ知らずで勝利を掴めそう。");
           System.out.println("好きな武器と飲み物で勝率がグンとＵＰ！");
           System.out.println("ラッキーポイント：『ドン勝』");
-          System.out.println("");
+          System.out.println("ただしバーストの罠にはきをつけること！");
           break;
         case 2:
           System.out.println("物事が思い通りに進展。");
           System.out.println("イベントを計画して◎");
           System.out.println("ラッキーポイント：『トップ10にランクイン！』");
-          System.out.println("");
+          System.out.println("ただし最終安地にはきをつけること！");
           break;
         case 3:
           System.out.println("偶然があなたの味方に…。");
           System.out.println("攻めの姿勢で実力を発揮。");
           System.out.println("ラッキーポイント：『キル厨』");
-          System.out.println("");
+          System.out.println("ただしクソ芋にはきをつけること！");
           break;
         case 4:
           System.out.println("外出先で新しい出会いが。");
           System.out.println("いつもと違う視点がカギ。");
           System.out.println("ラッキーポイント：『FPP』");
-          System.out.println("");
+          System.out.println("ただし酔いにはきをつけること！");
           break;
         case 5:
           System.out.println("アイディアがひらめく♪");
           System.out.println("仲間との連携がポイント。");
           System.out.println("ラッキーポイント：『蘇生』");
-          System.out.println("");
+          System.out.println("ただし蘇生する順番にはきをつけること！");
           break;
         case 6:
           System.out.println("役立つ知識を得られそう。");
           System.out.println("SNSや生放送で情報収集を。");
           System.out.println("ラッキーポイント：『ゴースティング』");
-          System.out.println("");
+          System.out.println("ただしBANにはきをつけること！");
           break;
         case 7:
           System.out.println("疲れがたまりダウン寸前。");
           System.out.println("エナジードリンク飲んで体力を回復！");
           System.out.println("ラッキーポイント：『レッドブル』");
-          System.out.println("");
+          System.out.println("ただしM249を拾うと運気アップ！");
           break;
         case 8:
           System.out.println("見えを張り財布がピンチ。");
           System.out.println("無駄遣いは絶対にヤメテ。");
           System.out.println("ラッキーポイント：『3300円』");
-          System.out.println("");
+          System.out.println("ただしM24を拾うと運気アップ！");
           break;
         case 9:
           System.out.println("心ない発言に意気消沈…。");
           System.out.println("物事を深く考えず過ごす。");
           System.out.println("ラッキーポイント：『内部崩壊』");
-          System.out.println("");
+          System.out.println("ただしグローザを拾うと運気アップ！");
           break;
         case 10:
           System.out.println("ささいな煽りにイライラ。");
           System.out.println("肩の力を抜いて行動して。");
           System.out.println("ラッキーポイント：『屈伸』");
-          System.out.println("");
+          System.out.println("ただしトンプソンを拾うと運気アップ！");
           break;
         case 11:
           System.out.println("人間関係でトラブルに。");
           System.out.println("友達を頼り過ぎると×");
           System.out.println("ラッキーポイント：『solo』");
-          System.out.println("");
+          System.out.println("ただしAWMを拾うと運気アップ！");
           break;
         case 12:
           System.out.println("コミュニケーション不足で勘違い。");
           System.out.println("自己主張せず控えめな言動を意識。");
           System.out.println("ラッキーポイント：『クソ芋』");
-          System.out.println("");
+          System.out.println("ただしアドレナリン注射をすると運気アップ！");
       }
       return;
   }
