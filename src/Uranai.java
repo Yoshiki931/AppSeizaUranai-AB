@@ -959,5 +959,14 @@ System.out.println("ただしイケメンに限る");
           System.out.println("ラッキーポイント：『変顔の写真』");
           System.out.println("");
       }
+      if( num < 7){
+    	  // 1位～6位の時 ○○に気を付けること
+          System.out.println("調子乗るな！乗りすぎると不幸が待っている");
+      }
+      else{
+    	  // 7位～12位 ○○すれば運気UP
+          System.out.println("不幸でもあきらめるな");
+
+      }
   }
 }
