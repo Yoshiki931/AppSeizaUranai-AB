@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+﻿import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Uranai {
 
   int point;
   int total;
-  static Scanner sc;
+  static Scanner sc; 
   static Random rand;
 
   public static void main(String[] args) {
@@ -647,72 +647,84 @@ public class Uranai {
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+	System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 2:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 3:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 4:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 5:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 6:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 7:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 8:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 9:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 10:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 11:
         System.out.println("故意のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
       case 12:
         System.out.println("やけどの恐れあり");
         System.out.println("気を付けておきましょう。");
         System.out.println("ラッキーポイント：『手切れ金』");
+	System.out.println("ただしイケメンに限る");
         System.out.println("");
         break;
     }
