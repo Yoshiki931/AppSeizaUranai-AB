@@ -108,7 +108,7 @@ public class Uranai {
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
-        System.out.println("ただし、『青色』に気を付けること");
+        System.out.println("ただし、『青色』に気を付けるこto");
         break;
       case 6:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
