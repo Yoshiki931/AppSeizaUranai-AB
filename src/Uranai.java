@@ -426,6 +426,12 @@ public class Uranai {
           System.out.println("ラッキーポイント：『悔いのない行動』");
           System.out.println("");
       }
+      if( num < 7){
+    	  System.out.println("調子に乗ると、痛い目見ますよ(byスタッフ)");
+      }
+      else{
+    	  System.out.println("小五ロリと会うと運気UP");
+      }
       System.out.println("");
       return;
   }
