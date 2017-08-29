@@ -84,61 +84,73 @@ public class Uranai {
         System.out.println("恋のビッグチャンス到来でモテモテ！");
         System.out.println("気になる人には積極的なアピールを！");
         System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+        System.out.println("ただし、『茶色』に気を付けること");
         break;
       case 2:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『小豆色』に気を付けること");
         break;
       case 3:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『紫色』に気を付けること");
         break;
       case 4:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『黄色』に気を付けること");
         break;
       case 5:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『青色』に気を付けるこto");
         break;
       case 6:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『赤色』に気を付けること");
         break;
       case 7:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『マラソン』をすると運気アップ");
         break;
       case 8:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『ベンチプレス』をすると運気アップ");
         break;
       case 9:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『スクワット』をすると運気アップ");
         break;
       case 10:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『背筋』をすると運気アップ");
         break;
       case 11:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『腹筋』をすると運気アップ");
         break;
       case 12:
         System.out.println("ペースを乱されイライラ。あいまいな答えには注意。");
         System.out.println("コミュニケーションを意識して");
         System.out.println("ラッキーポイント：『変顔の写真』");
+        System.out.println("ただし、『腕立て』をすると運気アップ");
     }
     System.out.println("");
     return;
