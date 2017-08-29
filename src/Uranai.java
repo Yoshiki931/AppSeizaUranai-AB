@@ -6,7 +6,7 @@ public class Uranai {
 
   int point;
   int total;
-  static Scanner sc; 
+  static Scanner sc;
   static Random rand;
 
   public static void main(String[] args) {
@@ -940,6 +940,15 @@ System.out.println("ただしイケメンに限る");
           System.out.println("コミュニケーションを意識して");
           System.out.println("ラッキーポイント：『変顔の写真』");
           System.out.println("");
+      }
+      if( num < 7){
+    	  // 1位～6位の時 ○○に気を付けること
+          System.out.println("調子乗るな！乗りすぎると不幸が待っている");
+      }
+      else{
+    	  // 7位～12位 ○○すれば運気UP
+          System.out.println("不幸でもあきらめるな");
+
       }
   }
 }
