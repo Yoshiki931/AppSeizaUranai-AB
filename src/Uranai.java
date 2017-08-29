@@ -436,82 +436,94 @@ public class Uranai {
       return;
   }
   public void Virgo( int num ){
-      String seiza = "おとめ座";
+	  String seiza = "おとめ座";
       System.out.println( num + "位：" + seiza );
-        switch( num ){
+		    switch( num ){
         case 1:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 2:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 3:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 4:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 5:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 6:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 7:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 8:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 9:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 10:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 11:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-            break;
-          case 12:
-            System.out.println("恋のビッグチャンス到来でモテモテ！");
-            System.out.println("気になる人には積極的なアピールを！");
-            System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
-            System.out.println("");
-        }
-        return;
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 2:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 3:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 4:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 5:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 6:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただしスズメバチにはきをつけること！！");
+		        System.out.println("");
+		        break;
+		      case 7:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		        break;
+		      case 8:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		        break;
+		      case 9:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		        break;
+		      case 10:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		        break;
+		      case 11:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		        break;
+		      case 12:
+		        System.out.println("恋のビッグチャンス到来でモテモテ！");
+		        System.out.println("気になる人には積極的なアピールを！");
+		        System.out.println("ラッキーポイント：『インテリア雑貨ショップ』");
+		        System.out.println("ただし屈伸をすると運気アップ！！");
+		        System.out.println("");
+		    }
+		    return;
   }
   public void Libra( int num ){
     String seiza = "いて座";
