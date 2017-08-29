@@ -609,7 +609,7 @@ public class Uranai {
           break;
         case 6:
           System.out.println("役立つ知識を得られそう。");
-          System.out.println("SNSや生放送で情報収集を。");
+          System.out.println("SNSや生放送で情報収集。");
           System.out.println("ラッキーポイント：『ゴースティング』");
           System.out.println("ただしBANにはきをつけること！");
           break;
