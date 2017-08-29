@@ -6,7 +6,7 @@ public class Uranai {
 
   int point;
   int total;
-  static Scanner sc;
+  static Scanner sc; 
   static Random rand;
 
   public static void main(String[] args) {
