@@ -834,52 +834,64 @@ System.out.println("ただしイケメンに限る");
     System.out.println( num + "位:" + seiza);
     switch( num ){
       case 1:
-        System.out.println("BIG BOUNUS!");
-        System.out.println("");
+        System.out.println("やる気があふれ仕事や勉強が進む日。");
+        System.out.println("ラッキーポイント『チラシ』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 2:
-        System.out.println("レギュラーボーナス");
-        System.out.println("");
+        System.out.println("2位 いて座、眠っていた才能が開花。苦手意識を持たず挑戦。");
+        System.out.println("ラッキーポイント『知り合いのブログ』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 3:
-        System.out.println("強チャンス目が引けるでしょう");
-        System.out.println("");
+        System.out.println("3位 しし座、努力が実を結び目標達成。こだわりを持った行動を");
+        System.out.println("ラッキーポイント『ＶネックＴシャツ』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 4:
-        System.out.println("きょうｔ");
-        System.out.println("");
+        System.out.println("4位 おとめ座、作業がスムーズに進行♪チームワークを意識して。");
+        System.out.println("ラッキーポイント『間違い探しゲーム』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 5:
-        System.out.println("お");
-        System.out.println("");
+        System.out.println("5位 てんびん座、長年の計画がついに実現。最新情報を有効活用して。");
+        System.out.println("ラッキーポイント 『甘栗』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 6:
-        System.out.println("か");
-        System.out.println("");
+        System.out.println("6位 おうし座、片思いの恋に嬉しい展開。前向きな姿勢でアタック。");
+        System.out.println("ラッキーポイント『クリームチーズ』");
+        System.out.println("ただし浮かれすぎるのもNG");
         break;
       case 7:
-        System.out.println("き");
-        System.out.println("");
+        System.out.println("7位 さそり座、価値観の違いで問題発生。相手の気持ちも理解して。");
+        System.out.println("ラッキーポイント『麻のジャケット』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
         break;
       case 8:
-        System.out.println("く");
-        System.out.println("");
+        System.out.println("8位 かに座、口が滑って思わぬ失敗。言葉のチョイスに注意。");
+        System.out.println("ラッキーポイント『黒いヘアピン』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
         break;
       case 9:
-        System.out.println("け");
-        System.out.println("");
+        System.out.println("9位 おひつじ座、不測の事態が続出しそう。電話の置き忘れに要注意。");
+        System.out.println("ラッキーポイント『新刊本』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
         break;
       case 10:
-        System.out.println("こ");
-        System.out.println("");
+        System.out.println("10位 うお座、他人に振り回され大混乱。怒らずに冷静さを保って。");
+        System.out.println("ラッキーポイント『ファッション雑誌』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
         break;
       case 11:
-        System.out.println("さ");
-        System.out.println("");
+        System.out.println("11位 やぎ座、ウソを見抜けずにトラブル。直感に頼るのはホドホドに。");
+        System.out.println("ラッキーポイント『家計簿アプリ』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
         break;
       case 12:
-        System.out.println("し");
-        System.out.println("");
+        System.out.println("12位 おとめ座、積極的すぎる行動で周囲から孤立。興味本位で話しかけるのは控えて。");
+        System.out.println("ラッキーポイント『大きなペンダント』");
+        System.out.println("ただし神社にお賽銭、２４時間テレビに募金、被災地に募金すれば運気アップ！！");
     }
     return;
   }
