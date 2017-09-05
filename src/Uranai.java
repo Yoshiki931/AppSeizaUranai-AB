@@ -837,6 +837,13 @@ System.out.println("ただしイケメンに限る");
           System.out.println("おめでとう！12位はやぎ座のあなた！");
           System.out.println("今日の金運はごみ！！！仕事がクビになって地下帝国で働くかも！！！");
           System.out.println("ラッキースロット：カイジ");
+
+      }
+      if(num < 7){
+    	  System.out.println("ただしユニオンに気をつけろ！");
+      }
+      else{
+    	  System.out.println("イオンのＭＩＹＡＺＡＷＡに来れば引きが強くなるかも！");
       }
       System.out.println("");
       return;
