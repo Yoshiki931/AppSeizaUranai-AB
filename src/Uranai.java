@@ -76,6 +76,8 @@ public class Uranai {
     }
   }
 
+
+
   public void Aries( int num ){
     String seiza = "牡羊座";
     System.out.println( num + "位：" + seiza );
