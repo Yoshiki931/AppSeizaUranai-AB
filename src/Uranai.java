@@ -298,6 +298,12 @@ public class Uranai {
           System.out.println("そんな君は蚊に刺されて邪気を吸ってもらおう！");
           System.out.println("ラッキーポイント：『河川敷』");
       }
+      if( num < 7  ){
+          System.out.println("ラッキーアイテム：たけのこの里に気を付けて");
+      }
+      else{
+          System.out.println("ラッキーアイテム：きのこの山を食べると運気ＵＰ");
+      }
       System.out.println("");
       return;
   }
